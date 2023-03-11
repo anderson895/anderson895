@@ -12,7 +12,7 @@
       <img src="https://user-images.githubusercontent.com/105678913/224469229-ea1bae02-0662-48c4-9dd3-f3c880a9ef1f.png" alt="Image 6" width="100" height="100">
       <img src="https://user-images.githubusercontent.com/105678913/224469246-8ed9f5ca-fe91-4b74-863d-0e6cc103d44f.png" alt="Image 1" width="100" height="100">
     </div>
-   Hello there 👋 <br><br><br>
+    <h1> Hello there </h1>👋 <br><br><br>
     <p class="center">👉 My name is Joshua, and I am a full stack developer. Take a look on stuff that I do! I mostly do my craft in PHP and currently work as a freelance Web developer as well as programmer, I do entire web applications, desktop apps or whatever allows me to do, nice to meet you!</p>
   </div>
 </body>
