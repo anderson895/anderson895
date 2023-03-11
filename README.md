@@ -5,8 +5,8 @@
 👉 My name is Joshua, and I am a full stack developer. Take a look on stuff that I do! I mostly do my craft in PHP and currently work as a freelance Web developer as well as programmer, I do entire web applications, desktop apps or whatever allows me to do, nice to meet you!
 
 <div style="display: flex;">
-  <img src="[path/to/left-image.png](https://user-images.githubusercontent.com/105678913/224467218-b6dd4433-6fc2-4b2f-8699-8b84d4632bcc.png)" style="width: 50%;">
-  <img src="[path/to/right-image.png](https://user-images.githubusercontent.com/105678913/224467192-8da5f912-ef41-490b-9263-c29c5b03cf9f.png)" style="width: 50%;">
+  <img src="https://user-images.githubusercontent.com/105678913/224467218-b6dd4433-6fc2-4b2f-8699-8b84d4632bcc.png" style="width: 50%;">
+  <img src="https://user-images.githubusercontent.com/105678913/224467192-8da5f912-ef41-490b-9263-c29c5b03cf9f.png" style="width: 50%;">
 </div>
 <!--
 **anderson895/anderson895** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
