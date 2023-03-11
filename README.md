@@ -1,22 +1,5 @@
 ###
-<style>
-  body {
-    background-color: #f2f2f2;
-    margin: 0;
-    padding: 0;
-    font-family: Arial, sans-serif;
-  }
-  
-  .container {
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 20px;
-  }
-  
-  .center {
-    text-align: center;
-  }
-</style>
+
 
 <body>
   <div class="container">
