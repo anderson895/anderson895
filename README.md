@@ -1,7 +1,6 @@
 ### Hello there 👋
 
 
-https://camo.githubusercontent.com/78ff2b08f2c183427cc6c3d75e99b2440dd59c758dcdba82c963ffb9f26080cd/68747470733a2f2f692e6962622e636f2f667030327167792f696d6167652d72656d6f766562672d707265766965772d372e706e67   
 
 👉 My name is Joshua, and I am a full stack developer. Take a look on stuff that I do! I mostly do my craft in PHP and currently work as a freelance Web developer as well as programmer, I do entire web applications, desktop apps or whatever allows me to do, nice to meet you!
 
