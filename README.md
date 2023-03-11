@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 <div class="profile-header">
-  <img src="https://user-images.githubusercontent.com/105678913/224468648-56361436-3358-49da-9732-e912c2daf133.png" alt="Banner image" style="width: 100px; height: auto;">
+  <img src="https://user-images.githubusercontent.com/105678913/224468648-56361436-3358-49da-9732-e912c2daf133.png" alt="Banner image" style="width: 300px; height: auto;">
 </div>
 
 👉 My name is Joshua, and I am a full stack developer. Take a look on stuff that I do! I mostly do my craft in PHP and currently work as a freelance Web developer as well as programmer, I do entire web applications, desktop apps or whatever allows me to do, nice to meet you!
