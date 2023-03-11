@@ -4,8 +4,6 @@
 
 👉 My name is Joshua, and I am a full stack developer. Take a look on stuff that I do! I mostly do my craft in PHP and currently work as a freelance Web developer as well as programmer, I do entire web applications, desktop apps or whatever allows me to do, nice to meet you!
 
-
-<img src="https://user-images.githubusercontent.com/105678913/224467192-8da5f912-ef41-490b-9263-c29c5b03cf9f.png" width="400" height="300">
 <img src="https://user-images.githubusercontent.com/105678913/224467218-b6dd4433-6fc2-4b2f-8699-8b84d4632bcc.png" width="400" height="300">
 <!--
 **anderson895/anderson895** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
