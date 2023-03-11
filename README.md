@@ -1,5 +1,5 @@
 ###
-<div style="background-color: #f2f2f2; padding: 20px;">
+<div style="background-color: white; padding: 20px;">
 
 <p align="center" style="display:flex; justify-content:center; align-items:center; flex-wrap:wrap; gap:20px; background-color:#f1f1f1; padding:20px;">
     <img src="https://user-images.githubusercontent.com/105678913/224469217-45d26dc7-d0b9-480e-85dc-f52fda16e561.png" alt="Image 7" width="100" height="100" style="border-radius:50%;">
