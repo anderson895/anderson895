@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 <div class="profile-header">
-  <img src="https://user-images.githubusercontent.com/105678913/224468648-56361436-3358-49da-9732-e912c2daf133.pn" alt="Banner image">
+  <img src="https://user-images.githubusercontent.com/105678913/224468648-56361436-3358-49da-9732-e912c2daf133.png" alt="Banner image">
 </div>
 
 
