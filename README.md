@@ -1,4 +1,6 @@
 ###
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.3/css/all.css">
+
 <div style="background-color: white; padding: 20px;">
 
 <p align="center" style="display:flex; justify-content:center; align-items:center; flex-wrap:wrap; gap:20px; background-color:#f1f1f1; padding:20px;">
@@ -15,7 +17,9 @@
     <h1> Hello there 👋👋👋 </h1> <br><br><br>
     <p class="center">👉 My name is Joshua, and I am a full stack developer. Take a look on stuff that I do! I mostly do my craft in PHP and currently work as a freelance Web developer as well as programmer, I do entire web applications, desktop apps or whatever allows me to do, nice to meet you!</p>
   
-<center><h2> This is one of my 3D game projects, titled The Panday.<i class="fas fa-sword" style="font-size: 24px; color: red;"></i>
+<center><h2> This is one of my 3D game projects, titled The Panday. <i class="fas fa-sword" style="font-size: 24px; color: red;"></i><i class="fas fa-fire"></i>
+
+
  </h2> <br><br><br>
 
 ![image](https://user-images.githubusercontent.com/105678913/227711955-28bf658d-596e-4773-a5b4-6bb3ead04e7e.png)
