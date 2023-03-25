@@ -15,7 +15,7 @@
     <h1> Hello there 👋👋👋 </h1> <br><br><br>
     <p class="center">👉 My name is Joshua, and I am a full stack developer. Take a look on stuff that I do! I mostly do my craft in PHP and currently work as a freelance Web developer as well as programmer, I do entire web applications, desktop apps or whatever allows me to do, nice to meet you!</p>
   
-
+![image](https://user-images.githubusercontent.com/105678913/227711810-39c0115a-853a-4aae-9e2f-07657052345f.png)
 <!--
 **anderson895/anderson895** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
