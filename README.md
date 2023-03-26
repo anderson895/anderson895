@@ -15,7 +15,9 @@
 </div>
   <hr>
     <h1> Hello there 👋👋👋 </h1> <br><br><br>
-    <p class="center">👉 My name is Joshua, and I am a full stack developer. Take a look on stuff that I do! I mostly do my craft in PHP and currently work as a freelance Web and Game developer as well as programmer, I do entire web applications, desktop apps or whatever allows me to do, nice to meet you!</p>
+    <p class="center">👉 
+My name is Joshua, and I am a full-stack developer. Take a look at the stuff that I do! I mostly do my craft in PHP and currently work as a freelance Web and Game developer as well as a programmer. I do entire web applications, desktop apps, or whatever my employer allows me to do. Nice to meet you!
+</p>
   <p>OPEN COMMISSION 💯
 
 <br>✅Java 
