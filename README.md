@@ -18,26 +18,30 @@
     <p class="center">👉 My name is Joshua, and I am a full stack developer. Take a look on stuff that I do! I mostly do my craft in PHP and currently work as a freelance Web and Game developer as well as programmer, I do entire web applications, desktop apps or whatever allows me to do, nice to meet you!</p>
   <p>OPEN COMMISSION 💯
 
-✅Java 
-✅C 
-✅C# 
-✅C++ 
-✅Python
-✅Website
--FRONT END (Html, Css, Js,)
--BACK END(Php,Mysql)
-
-[FRAME WORK]
--Bootsrap
--Tailwind
--ASP
--Laravel
--Flask
--Django
--Springboot
-🥰🥰🥰🥰
-
-Pm lang 🔑🔑🔑
+<br>✅Java 
+<br>✅C 
+<br>✅C# 
+<br>✅C++ 
+<br>✅Python
+<br>✅Website
+<br>-FRONT END (Html, Css, Js,)
+<br>-BACK END(Php,Mysql)
+<br>
+<br>
+<br>[FRAME WORK]
+<br>-Bootsrap
+<br>-Tailwind
+<br>-ASP
+<br>-Laravel
+<br>-Flask
+<br>-Django
+<br>-Springboot
+<br>🥰🥰🥰🥰
+<br>
+<br>Pm lang sa link
+<br>https://www.facebook.com/tiodorojen17?mibextid=ZbWKwL🔑🔑🔑
+<br>https://www.facebook.com/sinio.cagasan.3150?mibextid=ZbWKwL
+<br><br>
 
 <center><h2> This is one of my 3D game projects, titled The Panday.🗡️🔥
 
