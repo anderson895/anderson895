@@ -40,7 +40,6 @@ My name is Joshua, and I am a full-stack developer. Take a look at the stuff tha
 <br>-Flask
 <br>-Django
 <br>-Springboot
-<br>-Flutter
 <br>🥰🥰🥰🥰
 <br>
 <br>Pm lang sa link
