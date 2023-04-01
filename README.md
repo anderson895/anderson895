@@ -47,7 +47,7 @@ My name is Joshua, and I am a full-stack developer. Take a look at the stuff tha
 <br>https://www.facebook.com/sinio.cagasan.3150?mibextid=ZbWKwL
 <br><br>
 <br>Youtube Channel :https://www.youtube.com/channel/UCGx6f4Pm-X6l19FRhdHlHeg
-<center><h2> This is one of my 3D game projects, titled The Panday.🗡️🔥
+<center><h2> This is one of my sample 3D game projects, titled The Panday.🗡️🔥
 
 
 
