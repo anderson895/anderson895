@@ -53,6 +53,8 @@ My name is Joshua, and I am a full-stack developer. Take a look at the stuff tha
 
  </h2> <br><br>
 
+![image](https://user-images.githubusercontent.com/105678913/236516909-b80b686b-6655-4b10-b1ed-847d3e36dcfa.png)
+![image](https://user-images.githubusercontent.com/105678913/236516932-2e1847d3-2e13-4356-aab0-4451f47f770d.png)
 <br>
 
 ![image](https://user-images.githubusercontent.com/105678913/227711955-28bf658d-596e-4773-a5b4-6bb3ead04e7e.png)
