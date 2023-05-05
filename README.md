@@ -51,7 +51,9 @@ My name is Joshua, and I am a full-stack developer. Take a look at the stuff tha
 
 
 
- </h2> <br><br><br>
+ </h2> <br><br>
+![image](https://user-images.githubusercontent.com/105678913/236513533-c7ceb8f6-ecce-41b5-a62d-b32376d34342.png)
+<br>
 
 ![image](https://user-images.githubusercontent.com/105678913/227711955-28bf658d-596e-4773-a5b4-6bb3ead04e7e.png)
 ![image](https://user-images.githubusercontent.com/105678913/227712014-3b5a6852-c79d-427d-beef-eebeb8a2156e.png)
