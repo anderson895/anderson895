@@ -35,6 +35,7 @@ My name is Joshua, and I am a full-stack developer. Take a look at the stuff tha
 <br>[FRAME WORK]
 <br>-Bootsrap
 <br>-Tailwind
+<br>-Flutter
 <br>-ASP
 <br>-Laravel
 <br>-Flask
