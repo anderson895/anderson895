@@ -28,9 +28,9 @@ My name is Joshua, and I am a full-stack developer. Take a look at the stuff tha
 <br>✅Python
 <br>✅Unity
 <br>✅Website
+<br>Core PHP
 <br>-FRONT END (Html, Css, Js,)
 <br>-BACK END(Php,Mysql)
-<br>
 <br>
 <br>[FRAME WORK]
 <br>-Bootsrap
