@@ -65,6 +65,8 @@ My name is Joshua, and I am a full-stack developer. Take a look at the stuff tha
  </center>
  
 ![image](https://github.com/anderson895/Kadang-Kadang/assets/105678913/a7f7dc7f-b2ca-4499-bc39-dd3ae6572680)
+![image](https://github.com/anderson895/anderson895/assets/105678913/59b68dce-b7b7-4850-a2c0-e653c2126335)
+
 <!--
 **anderson895/anderson895** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
