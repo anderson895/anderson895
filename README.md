@@ -51,7 +51,6 @@ My name is Joshua, and I am a full-stack developer. Take a look at the stuff tha
 <center><h2> This is one of my sample 3D game projects, titled The Panday.🗡️🔥
 
 
-![image](https://github.com/anderson895/Kadang-Kadang/assets/105678913/a7f7dc7f-b2ca-4499-bc39-dd3ae6572680)
     
 
  </h2> <br><br>
@@ -64,6 +63,8 @@ My name is Joshua, and I am a full-stack developer. Take a look at the stuff tha
 ![image](https://user-images.githubusercontent.com/105678913/227712014-3b5a6852-c79d-427d-beef-eebeb8a2156e.png)
     
  </center>
+ 
+![image](https://github.com/anderson895/Kadang-Kadang/assets/105678913/a7f7dc7f-b2ca-4499-bc39-dd3ae6572680)
 <!--
 **anderson895/anderson895** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
