@@ -53,12 +53,14 @@ My name is Joshua, and I am a full-stack developer. Take a look at the stuff tha
 
     
 
- </h2> <br><br>
+ </h2> 
+ ![react1](https://github.com/anderson895/anderson895/assets/105678913/41555441-f8e0-42c7-bf9c-11d661f23aad)
+
+ <br><br>
 
 ![image](https://user-images.githubusercontent.com/105678913/236516909-b80b686b-6655-4b10-b1ed-847d3e36dcfa.png)
 ![image](https://user-images.githubusercontent.com/105678913/236516932-2e1847d3-2e13-4356-aab0-4451f47f770d.png)
 <br>
-![react1](https://github.com/anderson895/anderson895/assets/105678913/41555441-f8e0-42c7-bf9c-11d661f23aad)
 
 ![image](https://user-images.githubusercontent.com/105678913/227711955-28bf658d-596e-4773-a5b4-6bb3ead04e7e.png)
 ![image](https://user-images.githubusercontent.com/105678913/227712014-3b5a6852-c79d-427d-beef-eebeb8a2156e.png)
