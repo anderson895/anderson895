@@ -53,8 +53,8 @@ My name is Joshua, and I am a full-stack developer. Take a look at the stuff tha
 
     
 
- </h2> 
- ![react1](https://github.com/anderson895/anderson895/assets/105678913/41555441-f8e0-42c7-bf9c-11d661f23aad)
+ </h2>
+![react1](https://github.com/anderson895/anderson895/assets/105678913/916de1c2-0b9c-43bb-9349-45af0470a7d1)
 
  <br><br>
 
