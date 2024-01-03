@@ -61,8 +61,7 @@
 </div>
 
 <div align="center">
-<h2>Follow me on </h2>
-<a href='https://web.facebook.com/tiodorojen17/' target='_blank'><img height='64' style='height:64px;' src='https://static.xx.fbcdn.net/rsrc.php/y1/r/4lCu2zih0ca.svg' alt='Follow me JARP' /></a>
+<a href='https://web.facebook.com/tiodorojen17/' target='_blank'><h2>Follow me on </h2> <br><img height='64' style='height:64px;' src='https://static.xx.fbcdn.net/rsrc.php/y1/r/4lCu2zih0ca.svg' alt='Follow me JARP' /></a>
 </div>
 <br/><br/>
 
