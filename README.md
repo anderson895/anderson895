@@ -67,7 +67,7 @@
 <br/>
 
 <div align="center">
-<a href='https://web.facebook.com/tiodorojen17/' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href='https://web.facebook.com/tiodorojen17/' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://static.xx.fbcdn.net/rsrc.php/y1/r/4lCu2zih0ca.svg' border='0' alt='Follow me JARP' /></a>
 </div>
 
 <br/>
