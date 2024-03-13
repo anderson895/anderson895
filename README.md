@@ -12,7 +12,7 @@
  
  🔭 I’m currently working as freelance web and game developer
  
- 🌱 I’m currently learning Unity game engine
+
 
 
  </div>
