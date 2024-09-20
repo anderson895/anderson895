@@ -60,14 +60,4 @@
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=anderson895&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-<div align="center">
-    <h1>Follow me on </h1>
-<a href='https://web.facebook.com/joshuapadilla895/' target='_blank'><img height='64'  src='https://static.xx.fbcdn.net/rsrc.php/y1/r/4lCu2zih0ca.svg' alt='Follow me JARP' /></a>
-</div>
-<br/><br/>
 
-<hr/>
-
-
-
-<br/>
