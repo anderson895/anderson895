@@ -53,8 +53,8 @@
 
  </tr><tr>
     <td align="center" width="96"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/git_scm_logo_icon_170096.png" width="40" height="40" title="Git" /><br>Git</td>
-    <td align="center" width="96"><img src="https://www.cdnlogo.com/logos/a/88/adobe-photoshop.svg" width="40" height="40" title="photoshop cc 19" /><br>Photoshop</td>
-    <td align="center" width="96"><img src="https://cdn.icon-icons.com/icons2/512/PNG/512/prog-flask_icon-icons.com_50797.png" width="40" height="40" title="Clip Studio Paint" /><br>ClipStudio</td>
+    <td align="center" width="96"><img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png" width="40" height="40" title="photoshop cc 19" /><br>Python</td>
+    <td align="center" width="96"><img src="https://cdn.icon-icons.com/icons2/512/PNG/512/prog-flask_icon-icons.com_50797.png" width="40" height="40" title="Clip Studio Paint" /><br>Flask</td>
     <td align="center" width="96"><img src="https://avatars.githubusercontent.com/u/10251060?s=200&v=4" width="40" height="40" title="Postman API" /><br>Postman</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" title="Visual Studio Code" /><br>VsCode</td>
     <td align="center" width="96"><img src="https://github.com/npm/logos/blob/master/npm%20logo/npm-logo-red.svg" width="40" height="40" title="node package manager" /><br>npm</td>
