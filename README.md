@@ -32,11 +32,27 @@
  <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-     <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,jquery,html,css,js,laravel,flask,flutter,blender" />
-    <img src="https://skillicons.dev/icons?i=nodejs,py,php,vue,express,java,c,cs,cpp,mysql,sqlite" /><br>
-</div>
+<h2 align="left">🍄 Languages & Tools:</h2>
+<table>
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+    <td align="center" width="96"><img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" alt="icon" width="40" height="40" title="C"/><br>C </td>
+    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="40" height="40" title="C++"/> <br>C++ </td>
+    <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" title="Java"/><br>Java </td>
+    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="40" height="40" title="C#"/><br>C# </td>
+    <td align="center"  width="96"><img src="https://skillicons.dev/icons?i=html" width="40" height="40" title="HTML"/><br>HTML5 </td>
+    <td align="center"  width="96"><img src="https://skillicons.dev/icons?i=css" width="40" height="40" title="CSS"/><br>CSS </td>
+    <td align="center"  width="96"><img src="https://cdn.simpleicons.org/bootstrap/7952B3" width="40" height="40" title="Bootstrap"/><br>Bootstrap</td>
+      
+ </tr><tr>
+    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="40" height="40" title="MySQL" /><br>MySQL</td>
+    <td align="center" width="96"><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/oracle_original_logo_icon_146401.png" width="45" height="45" title="oracle" /><br>Oracle</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" height="45" title="Microsoft SQL Server" /><br>SQLServer</td>
+    <td align="center" width="96"><img src="https://icon.icepanel.io/Technology/svg/.NET.svg" width="40" height="40" title=".Net"/><br>dotnet </td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=expressjs" width="40" height="40" title="Express.js" /><br>Express.js</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=js" width="40" height="40" title="Javascript" /><br>JavaScript</td>
+    <td align="center" width="96"><img src="https://cdn.iconscout.com/icon/free/png-512/free-jquery-3521520-2945023.png" width="40" height="40" title="jQuery" /><br>jQuery</td>
 
 <br/>
 <hr/>
