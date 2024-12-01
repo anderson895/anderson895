@@ -54,7 +54,7 @@
  </tr><tr>
     <td align="center" width="96"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/git_scm_logo_icon_170096.png" width="40" height="40" title="Git" /><br>Git</td>
     <td align="center" width="96"><img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png" width="40" height="40" title="photoshop cc 19" /><br>Python</td>
-    <td align="center" width="96"><img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/flask_logo_icon_145276.png" width="40" height="40" title="Clip Studio Paint" /><br>Flask</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=flask" width="40" height="40" title="Clip Studio Paint" /><br>Flask</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" title="Tailwind" /><br>Tailwind</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" title="Visual Studio Code" /><br>VsCode</td>
     <td align="center" width="96"><img src="https://github.com/npm/logos/blob/master/npm%20logo/npm-logo-red.svg" width="40" height="40" title="node package manager" /><br>npm</td>
