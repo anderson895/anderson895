@@ -44,7 +44,7 @@
       
  </tr><tr>
     <td align="center" width="96"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="40" height="40" title="MySQL" /><br>MySQL</td>
-    <td align="center" width="96"><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/oracle_original_logo_icon_146401.png" width="45" height="45" title="oracle" /><br>Oracle</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=firebase" width="45" height="45" title="Firebase" /><br>Firebase</td>
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" height="45" title="Microsoft SQL Server" /><br>SQLServer</td>
     <td align="center" width="96"><img src="https://icon.icepanel.io/Technology/svg/.NET.svg" width="40" height="40" title=".Net"/><br>dotnet </td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=unity" width="40" height="40" title="Unity" /><br>Unity</td>
