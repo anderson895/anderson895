@@ -69,7 +69,7 @@
   <h2> 🌱 My Contributions 🌱</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
+   <img align="center" src ="https://github-readme-activity-graph.vercel.app/graph?username=anderson895&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Contribution%20Graph%20of%20last%2030%20days&height=350">
   <br/><br/><br/>
 </div>
 
