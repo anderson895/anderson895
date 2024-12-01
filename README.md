@@ -57,7 +57,7 @@
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=flask" width="40" height="40" title="Clip Studio Paint" /><br>Flask</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" title="Tailwind" /><br>Tailwind</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" title="Visual Studio Code" /><br>VsCode</td>
-    <td align="center" width="96"><img src="https://github.com/npm/logos/blob/master/npm%20logo/npm-logo-red.svg" width="40" height="40" title="node package manager" /><br>npm</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="40" height="40" title="node package manager" /><br>React</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" title="node.js" /><br>node.js</td>
      
  </tr>
