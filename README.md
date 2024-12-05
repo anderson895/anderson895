@@ -36,8 +36,9 @@
   <tr>
     <td align="center" width="96"><img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" alt="icon" width="40" height="40" title="C"/><br>C </td>
     <td align="center" width="96"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="40" height="40" title="C++"/> <br>C++ </td>
-    <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" title="Java"/><br>Java </td>
     <td align="center" width="96"><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="40" height="40" title="C#"/><br>C# </td>
+      
+    <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" title="Java"/><br>Java </td>
     <td align="center"  width="96"><img src="https://skillicons.dev/icons?i=html" width="40" height="40" title="HTML"/><br>HTML5 </td>
     <td align="center"  width="96"><img src="https://skillicons.dev/icons?i=css" width="40" height="40" title="CSS"/><br>CSS </td>
     <td align="center"  width="96"><img src="https://cdn.simpleicons.org/bootstrap/7952B3" width="40" height="40" title="Bootstrap"/><br>Bootstrap</td>
