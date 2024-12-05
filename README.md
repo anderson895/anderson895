@@ -69,7 +69,7 @@
   <h2> 🌱 My Contributions 🌱</h2>
   <br>
 <!--   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" /> -->
-![github-user-contribution (2)](https://github.com/user-attachments/assets/60ac614a-5e16-4d20-8489-fe59448ace12)
+
 
 
     
